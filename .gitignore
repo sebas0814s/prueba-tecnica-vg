@@ -21,6 +21,10 @@ data/*.csv
 .idea/
 *.code-workspace
 
+# Documentación interna (no va al repositorio público)
+README_INTERNO.md
+GUION_VIDEO.md
+
 # OS
 .DS_Store
 Thumbs.db
